@@ -12,7 +12,7 @@
 - 💬 Ask me about mentoring, Machine learning and Artifical Intelligence, Algorithms and Design, Blockchain, Software Engineeering, and MLOps.
 - ⚡ Fun fact: I love photography. Yup it's a reare comination of Data Scientist + Photography.
 
-<img align="left" style="padding: 3rem 8rem" src="https://github-readme-streak-stats.herokuapp.com/?user=tavishaggarwal&theme=tokyonight" />
+<img align="left" style="padding: 5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=tavishaggarwal&theme=tokyonight" />
 
 [![Tavish's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tavishaggarwal&theme=dracula&hide_langs_below=1)]()
 
