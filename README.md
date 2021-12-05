@@ -7,12 +7,13 @@
 
 [![Tavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavishaggarwal&hide=issues&count_private=true&show_icons=true&theme=calm)]()
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavishaggarwal&theme=dracula&hide_langs_below=1" /></br>
+
+
 - 🔭 I’m currently working with one of the larget steel producers in North America. I am helping organization to incorporate a data culture and building usecases that is helping company to run day to day operations effectively.
 - 🌱 I’m currently learning multimodal problems. I am trying to understand what how ML/AI will work if we combine multiple modalities.
 - 💬 Ask me about mentoring, Machine learning and Artifical Intelligence, Algorithms and Design, Blockchain, Software Engineeering, and MLOps.
 - ⚡ Fun fact: I love photography. Yup it's a reare comination of Data Scientist + Photography.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavishaggarwal&theme=dracula&hide_langs_below=1" /></br>
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/tavishaggarwal) and add to my knowledge! 
 
