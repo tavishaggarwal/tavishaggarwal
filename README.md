@@ -5,6 +5,13 @@
 [![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/TavishAggarwal?style=social)](https://twitter.com/TavishAggarwal)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tavishaggarwal&left_color=gray&right_color=blue)
 [![Tavish Aggarwal](https://img.shields.io/badge/website-tavishaggarwal-blue?style=flat&logo=appveyor&link=https://tavishaggarwal.com)](https://tavishaggarwal.com)
+
+[![Tavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavishaggarwal&hide=issues&count_private=true&show_icons=true&theme=calm)]()
+
+👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/tavishaggarwal) and add to my knowledge! 
+
+<a href="hhttps://www.buymeacoffee.com/tavishaggarwal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+
   
 <!--
 **tavishaggarwal/tavishaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
