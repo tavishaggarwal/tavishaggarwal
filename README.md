@@ -1,5 +1,11 @@
 ### Hi there, I am Tavish Aggarwal 👋
 
+[![GitHub vermakhushboo](https://img.shields.io/github/followers/tavishaggarwal?label=follow&style=social)](https://github.com/tavishaggarwal)
+[![Linkedin: Khushboo Verma](https://img.shields.io/badge/Tavish%20Aggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tavishaggarwal/)](https://www.linkedin.com/in/tavishaggarwal/)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/TavishAggarwal?style=social)](https://twitter.com/TavishAggarwal)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=tavishaggarwal&left_color=gray&right_color=blue)
+[![Tavish Aggarwal](https://img.shields.io/badge/website-tavishaggarwal-blue?style=flat&logo=appveyor&link=https://tavishaggarwal.com)](https://tavishaggarwal.com)
+  
 <!--
 **tavishaggarwal/tavishaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
