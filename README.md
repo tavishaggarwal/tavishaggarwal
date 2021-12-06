@@ -4,6 +4,7 @@
 [![Linkedin: tavishaggarwal](https://img.shields.io/badge/Tavish%20Aggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tavishaggarwal/)](https://www.linkedin.com/in/tavishaggarwal/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tavishaggarwal&left_color=gray&right_color=blue)
 [![Tavish Aggarwal](https://img.shields.io/badge/website-tavishaggarwal-blue?style=flat&logo=appveyor&link=https://tavishaggarwal.com)](https://tavishaggarwal.com)
+[![Tech Ladder](https://img.shields.io/badge/website-techladder-blue?style=flat&logo=appveyor&link=https://techladder.in)](https://techladder.in)
 
 [![Tavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavishaggarwal&hide=issues&count_private=true&show_icons=true&theme=calm)]()
 
